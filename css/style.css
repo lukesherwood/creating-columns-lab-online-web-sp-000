@@ -52,7 +52,7 @@ img:hover {
   width: 48%;
 }
 /* create your tile classes! we recommend .small .med .large */
-.small{
+.column div.small{
   width:100%;
   height:100%;
 }
